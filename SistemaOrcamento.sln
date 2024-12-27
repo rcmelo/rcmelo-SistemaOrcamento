@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaOrcamento", "SistemaOrcamento\SistemaOrcamento.csproj", "{965565DD-2F70-407D-953E-2AFFB4C0DCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965565DD-2F70-407D-953E-2AFFB4C0DCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965565DD-2F70-407D-953E-2AFFB4C0DCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965565DD-2F70-407D-953E-2AFFB4C0DCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965565DD-2F70-407D-953E-2AFFB4C0DCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8FBA58-14AB-44AE-A010-722B437540AF}
+	EndGlobalSection
+EndGlobal
