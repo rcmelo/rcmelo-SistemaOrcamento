@@ -116,6 +116,7 @@
             Controls.Add(label1);
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "frmUnidades";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Cadastro de Unidades";
             ((System.ComponentModel.ISupportInitialize)dg).EndInit();
             ResumeLayout(false);

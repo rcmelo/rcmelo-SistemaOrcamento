@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SistemaOrcamento
 {
-    public partial class frmFornecedor : Form
+    public partial class frmFornecedores : Form
     {
-        public frmFornecedor()
+        public frmFornecedores()
         {
             InitializeComponent();
         }

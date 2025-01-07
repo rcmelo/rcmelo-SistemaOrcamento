@@ -1,6 +1,6 @@
 ﻿namespace SistemaOrcamento
 {
-    partial class frmFornecedor
+    partial class frmFornecedores
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFornecedor));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmFornecedores));
             label1 = new Label();
             txtNome = new TextBox();
             label2 = new Label();
